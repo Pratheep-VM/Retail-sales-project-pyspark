@@ -33,4 +33,4 @@ One of the trickier parts of this project was handling the dates.
 I used `dbutils.widgets` to create a dropdown for "Time Period." This passes a variable into the Python logic which recalculates the start and end dates on the fly.
 
 **Handling Historical Data:**
-Since the dataset ends in **2023**, simply running `date.today()` (which would be 2025) returned zero results. I implemented logic to simulate "today" relative to the dataset's max date, ensuring the weekly/monthly logic actually filters relevant data instead of returning empty tables.
+Since the dataset ends in **2024**, simply running `date.today()` (which would be 2025) returned zero results. I implemented logic to simulate "today" relative to the dataset's max date, ensuring the weekly/monthly logic actually filters relevant data instead of returning empty tables.
