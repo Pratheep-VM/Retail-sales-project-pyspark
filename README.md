@@ -1,6 +1,6 @@
 # **Retail-sales-project-pyspark**
 
-This project is an end-to-end data analysis solution built using **PySpark** on **Databricks**. The goal wasn't just to query data, but to build a reactive workflow that mimics a real-world business dashboard. I took the raw "Superstore" retail dataset and built a pipeline that allows stakeholders to track performance metrics dynamically. Instead of static reports, I added widget controls so users can toggle between **Weekly** and **Monthly** views to see how KPIs change over time. 
+This project is an end-to-end data analysis solution built using **PySpark** on **Databricks**. The goal wasn't just to query data, but to build a reactive workflow that mimics a real world business dashboard. I took the raw "Superstore" retail dataset and built a pipeline that allows stakeholders to track performance metrics dynamically. Instead of static reports, I added widget controls so users can toggle between **Weekly** and **Monthly** views to see how KPIs change over time. 
 
 ## 🛠️ Tech Stack
 *   **Platform:** Databricks (Community Edition)
