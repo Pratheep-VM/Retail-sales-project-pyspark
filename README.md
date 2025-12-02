@@ -1,4 +1,4 @@
-**Retail-sales-project-pyspark**
+# **Retail-sales-project-pyspark**
 
 This project is an end-to-end data analysis solution built using **PySpark** on **Databricks**. 
 
